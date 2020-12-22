@@ -1,0 +1,27 @@
+{
+    "INFO": {
+        "channel-name": "Canal do Boi",
+        "channel-network": "",
+        "channel-city": "Campo Grande",
+        "channel-uf": "MS",
+        "channel-codec": "h264",
+        "channel-resolution": "480"
+    },
+    "EPG": {
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "Agro",
+        "shift": "-3"
+    },
+    "DATA": {
+        "audio-track": "por",
+        "aspect-ratio": "16:9",
+        "subtitles": "por",
+        "background": "#000000",
+        "url": "https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "INFO": {
+    "channel-name": "TV Senado",
+    "channel-network": "",
+    "channel-city": "Brasília",
+    "channel-uf": "DF",
+    "channel-codec": "wmv3",
+    "channel-resolution": "360"
+  },
+  "EPG": {
+    "tvg-id": "",
+    "tvg-name": "",
+    "url-tvg": "",
+    "tvg-language": "Portuguese",
+    "tvg-country": "BR",
+    "tvg-logo": "",
+    "group-title": "Legislative",
+    "shift": "-3"
+  },
+  "DATA": {
+    "audio-track": "por",
+    "aspect-ratio": "16:9",
+    "subtitles": "por",
+    "background": "#000000",
+    "url": "rtsp://drix.senado.gov.br/tv1"
+  }
+}

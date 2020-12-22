@@ -1,0 +1,27 @@
+{
+    "INFO": {
+        "channel-name": "ALL Sports TV",
+        "channel-network": "",
+        "channel-city": "Brasília",
+        "channel-uf": "DF",
+        "channel-codec": "h264",
+        "channel-resolution": "720"
+    },
+    "EPG": {
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "Sport",
+        "shift": "-3"
+    },
+    "DATA": {
+        "audio-track": "por",
+        "aspect-ratio": "16:9",
+        "subtitles": "por",
+        "background": "#000000",
+        "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8"
+    }
+}

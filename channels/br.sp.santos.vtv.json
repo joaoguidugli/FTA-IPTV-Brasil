@@ -1,0 +1,29 @@
+{
+    "INFO":{
+        "channel-name": "VTV",
+        "channel-network": "SBT",
+        "channel-city": "Santos",
+        "channel-uf": "SP",
+        "channel-codec": "h264",
+        "channel-resolution": "1080"
+    },
+
+    "EPG":{
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "General",
+        "shift": "-3"
+    },
+
+    "DATA":{
+    "audio-track": "por",
+    "aspect-ratio": "16:9",
+    "subtitles": "por",
+    "background":"#000000",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1608155838/ei/Xi7aX636L7KV1sQPwpq20AY/ip/201.150.152.42/id/UwVsDipf_nc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-bg07dner.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/9750/mh/e9/mm/44/mn/sn-bg07dner/ms/lva/mv/m/mvi/6/pl/24/dover/11/keepalive/yes/mt/1608133953/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRgIhAKeC6i3vk5zscByQrBxDq1NB0er4cpFsKFe1W0PiaKpLAiEApIuyklk3mhFEMUss6JX0HPrxkx9EwjnjIlE4tK-NSck%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALqYmzMfNYiERcO_aFqPFiht_RUO-GuDoLOJifDMrxLyAiADF91I_js0N5S7L2wuTMcZ7cpszfUJjG3IvwC6GIyp4A%3D%3D/playlist/index.m3u8"
+    }
+}

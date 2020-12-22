@@ -1,0 +1,29 @@
+{
+    "INFO":{
+        "channel-name": "TV ALMG",
+        "channel-network": "",
+        "channel-city": "Belo Horizonte",
+        "channel-uf": "MG",
+        "channel-codec": "h264",
+        "channel-resolution": "480"
+    },
+
+    "EPG":{
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "Legislative",
+        "shift": "-3"
+    },
+
+    "DATA":{
+    "audio-track": "por",
+    "aspect-ratio": "16:9",
+    "subtitles": "por",
+    "background":"#000000",
+    "url": "https://streaming.almg.gov.br/live/tvalmg.m3u8"
+    }
+}

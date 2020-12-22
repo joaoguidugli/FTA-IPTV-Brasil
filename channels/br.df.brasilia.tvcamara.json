@@ -1,0 +1,27 @@
+{
+  "INFO": {
+    "channel-name": "TV Câmara",
+    "channel-network": "",
+    "channel-city": "Brasília",
+    "channel-uf": "DF",
+    "channel-codec": "h264",
+    "channel-resolution": "720"
+  },
+  "EPG": {
+    "tvg-id": "",
+    "tvg-name": "",
+    "url-tvg": "",
+    "tvg-language": "Portuguese",
+    "tvg-country": "BR",
+    "tvg-logo": "",
+    "group-title": "Legislative",
+    "shift": "-3"
+  },
+  "DATA": {
+    "audio-track": "por",
+    "aspect-ratio": "16:9",
+    "subtitles": "por",
+    "background": "#000000",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8"
+  }
+}
