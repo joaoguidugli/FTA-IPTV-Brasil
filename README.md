@@ -16,4 +16,7 @@ https://raw.githubusercontent.com/joaoguidugli/FTA-IPTV-Brasil/master/playlist.m
 ## 📝 License
 
 Copyright © 2020 [João Guidugli](https://github.com/joaoguidugli).<br />
-This project is [MIT](https://github.com/joaoguidugli/FTA-IPTV-Brasil/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/joaoguidugli/FTA-IPTV-Brasil/blob/master/LICENSE) licensed.<br />
+
+Os logotipos, marcas, símbolos, nomes e URLs citadas neste projeto pertencem ao indivíduo que o produziu ou a empresa que o publicou.<br />
+A utilização e citações para fins ilustrativos, informativos e educativos, não constitui ofensa aos direitos autorais. [LEI Nº 9.610 DE 1998](http://www.planalto.gov.br/ccivil_03/Leis/L9610.htm) [Inciso XIV do Artigo 5 da Constituição Federal](https://presrepublica.jusbrasil.com.br/legislacao/91972/constituicao-da-republica-federativa-do-brasil-1988#art-5--inc-XIV)
