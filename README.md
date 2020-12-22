@@ -10,9 +10,10 @@ Este projeto tem visa montar um banco de dados com os canais disponíveis no Bra
 Além disso possui um sistema de verificação da validade do link cadastrado, que pode ser visto em `main.py`,que gera a lista `playlist.m3u8`, contendo apenas canais em funcionamento.
 
 ```sh
+https://raw.githubusercontent.com/joaoguidugli/FTA-IPTV-Brasil/master/playlist.m3u8
 ```
 
 ## 📝 License
 
 Copyright © 2020 [João Guidugli](https://github.com/joaoguidugli).<br />
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/joaoguidugli/FTA-IPTV-Brasil/blob/master/LICENSE) licensed.
