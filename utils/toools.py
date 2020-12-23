@@ -9,7 +9,7 @@ class Toools ():
         file.write("#EXTM3U\n\n")
         file.close()
 
-        file = open("./log/chanellsoff.txt", "w")
+        file = open("./log/channelsoff.txt", "w")
         file.write("#Canais Offline\n")
         file.close()
 

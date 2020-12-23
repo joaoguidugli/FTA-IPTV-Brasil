@@ -14,6 +14,15 @@ Além disso possui um sistema de verificação da validade do link cadastrado, q
 https://raw.githubusercontent.com/joaoguidugli/FTA-IPTV-Brasil/master/playlist.m3u8
 ```
 
+## ✅ Features
+
+- [x] Cadastro de sistema de log
+- [ ] Alteração no main.py para melhor codificação
+- [ ] Geração automática do README
+- [ ] Cadastro dos canais disponíveis por via terrestre, descritos no [Portal BSD](https://www.portalbsd.com.br/)
+...
+- [ ] Cadastrar todos os canais disponíveis em FTA
+
 ## 📝 License
 
 Copyright © 2020 [João Guidugli](https://github.com/joaoguidugli).<br/>
@@ -21,4 +30,4 @@ This project is [MIT](https://github.com/joaoguidugli/FTA-IPTV-Brasil/blob/maste
 
 <small>Os logotipos, marcas, símbolos, nomes e URLs citadas neste projeto pertencem ao indivíduo que o produziu ou a empresa que o publicou.</small><br/>
 <small>A utilização e citações para fins ilustrativos, informativos e educativos, não constitui ofensa aos direitos autorais.</small><br/>
-<small>[LEI Nº 9.610 DE 1998](http://www.planalto.gov.br/ccivil_03/Leis/L9610.htm) [Inciso XIV do Artigo 5 da Constituição Federal](https://presrepublica.jusbrasil.com.br/legislacao/91972/constituicao-da-republica-federativa-do-brasil-1988#art-5--inc-XIV)</small>
+<small>[LEI Nº 9.610 DE 1998](http://www.planalto.gov.br/ccivil_03/Leis/L9610.htm) • [Inciso XIV do Artigo 5 da Constituição Federal](https://presrepublica.jusbrasil.com.br/legislacao/91972/constituicao-da-republica-federativa-do-brasil-1988#art-5--inc-XIV)</small>
