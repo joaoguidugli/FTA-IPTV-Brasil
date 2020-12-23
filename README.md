@@ -1,7 +1,7 @@
 <h1 align="center">FTA-IPTV-Brasil 📺</h1>
 <p align="center">
 <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
-<img alt="Canais" src="https://img.shields.io/badge/Canais-25-green" target="_blank" />
+<img alt="Canais" src="https://img.shields.io/badge/Canais-24-green" target="_blank" />
 </p>
 
 > Somente serão adicionadas emissoras gratuitas de sinal aberto. Caso encontre alguma emissora que não se enquadre nesse quesito dentro do banco de dados, comunique o autor.
