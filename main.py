@@ -44,6 +44,10 @@ for entry in entries:
     #Find out if stream is working.
     if state == "State.Ended" or state == "State.Error":
         ChannelsOffline[entry] = connection
+        obj.addChannelListOffline(
+            data['INFO']['channel-name'],
+            entry
+        )
         player.stop()
     else:
         ChannelsOnline[entry] = connection

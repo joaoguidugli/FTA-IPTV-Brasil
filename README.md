@@ -1,6 +1,7 @@
 <h1 align="center">FTA-IPTV-Brasil 📺</h1>
 <p align="center">
 <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+<img alt="Canais" src="https://img.shields.io/badge/Canais-25-green" target="_blank" />
 </p>
 
 > Somente serão adicionadas emissoras gratuitas de sinal aberto. Caso encontre alguma emissora que não se enquadre nesse quesito dentro do banco de dados, comunique o autor.
@@ -15,8 +16,9 @@ https://raw.githubusercontent.com/joaoguidugli/FTA-IPTV-Brasil/master/playlist.m
 
 ## 📝 License
 
-Copyright © 2020 [João Guidugli](https://github.com/joaoguidugli).<br />
-This project is [MIT](https://github.com/joaoguidugli/FTA-IPTV-Brasil/blob/master/LICENSE) licensed.<br />
+Copyright © 2020 [João Guidugli](https://github.com/joaoguidugli).<br/>
+This project is [MIT](https://github.com/joaoguidugli/FTA-IPTV-Brasil/blob/master/LICENSE) licensed.<br/>
 
-Os logotipos, marcas, símbolos, nomes e URLs citadas neste projeto pertencem ao indivíduo que o produziu ou a empresa que o publicou.<br />
-A utilização e citações para fins ilustrativos, informativos e educativos, não constitui ofensa aos direitos autorais. [LEI Nº 9.610 DE 1998](http://www.planalto.gov.br/ccivil_03/Leis/L9610.htm) [Inciso XIV do Artigo 5 da Constituição Federal](https://presrepublica.jusbrasil.com.br/legislacao/91972/constituicao-da-republica-federativa-do-brasil-1988#art-5--inc-XIV)
+<small>Os logotipos, marcas, símbolos, nomes e URLs citadas neste projeto pertencem ao indivíduo que o produziu ou a empresa que o publicou.</small><br/>
+<small>A utilização e citações para fins ilustrativos, informativos e educativos, não constitui ofensa aos direitos autorais.</small><br/>
+<small>[LEI Nº 9.610 DE 1998](http://www.planalto.gov.br/ccivil_03/Leis/L9610.htm) [Inciso XIV do Artigo 5 da Constituição Federal](https://presrepublica.jusbrasil.com.br/legislacao/91972/constituicao-da-republica-federativa-do-brasil-1988#art-5--inc-XIV)</small>

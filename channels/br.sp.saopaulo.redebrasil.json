@@ -1,9 +1,9 @@
 {
     "INFO":{
-        "channel-name": "Fonte TV",
-        "channel-network": "Rede Fonte de Comunicação",
-        "channel-city": "Goiânia",
-        "channel-uf": "GO",
+        "channel-name": "Rede Brasil",
+        "channel-network": "",
+        "channel-city": "São Paulo",
+        "channel-uf": "SP",
         "channel-codec": "h264",
         "channel-resolution": "720"
     },
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
+    "url": "https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8"
     }
 }

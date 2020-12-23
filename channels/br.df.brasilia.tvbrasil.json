@@ -1,0 +1,28 @@
+
+{
+    "INFO": {
+      "channel-name": "TV Brasil",
+      "channel-network": "Empresa Brasil de Comunicação",
+      "channel-city": "Brasília",
+      "channel-uf": "DF",
+      "channel-codec": "h264",
+      "channel-resolution": "1080"
+    },
+    "EPG": {
+      "tvg-id": "",
+      "tvg-name": "",
+      "url-tvg": "",
+      "tvg-language": "Portuguese",
+      "tvg-country": "BR",
+      "tvg-logo": "",
+      "group-title": "Governmental",
+      "shift": "-3"
+    },
+    "DATA": {
+      "audio-track": "por",
+      "aspect-ratio": "16:9",
+      "subtitles": "por",
+      "background": "#000000",
+      "url": "https://video-rvd-pe-cdc-gw-4-1.rnp.br/live/ocp(t(FlM0jMy8CK0)r(fVR9ug)a(yZaYKg)p(d(2xc)k(q8M)m(Y2z8kNxcbsio8GbHKbSdgA)n(a(yUB7ng)s(pEg)'a(DJPRFA)s(2to)))s(s(3RI)b(reymt_1x067kS42ungIx7xCR4bFzftjDklGKcCr66wFJYetU0RBU81_FPhxck31p8jG1Qtgmmldi5QEKfA)'s(nYw)b(N_E-6z_RzWV9MbguJLDW2vgYaDu7yE9niy5zKQHsseVBFmuFQayOBCdIImSB-tm17i_pHL6-GYIPP-eiibBXeHoP6a8BtCL1fJ4HTDNZ)'s(HLo)b(1px-3nh9))m(0))/index.m3u8"
+    }
+  }

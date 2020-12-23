@@ -1,9 +1,9 @@
 {
     "INFO":{
-        "channel-name": "Fonte TV",
-        "channel-network": "Rede Fonte de Comunicação",
-        "channel-city": "Goiânia",
-        "channel-uf": "GO",
+        "channel-name": "TV Câmara SP",
+        "channel-network": "",
+        "channel-city": "São Paulo",
+        "channel-uf": "SP",
         "channel-codec": "h264",
         "channel-resolution": "720"
     },
@@ -15,7 +15,7 @@
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "General",
+        "group-title": "Legislative",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
+    "url": "https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8"
     }
 }
