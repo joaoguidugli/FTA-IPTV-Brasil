@@ -3,8 +3,8 @@
 Canal: VTV
 Arquivo: br.sp.santos.vtv.json
 
-Canal: TV Câmara SP
-Arquivo: br.sp.saopaulo.tvcamarasp.json
+Canal: Rede ALESP
+Arquivo: br.sp.saopaulo.redealesp.json
 
 Canal: TV Gazeta
 Arquivo: br.sp.saopaulo.tvgazeta.json
