@@ -1,11 +1,11 @@
 {
     "INFO":{
-        "channel-name": "TV Gazeta",
-        "channel-network": "Fundação Cásper Líbero",
-        "channel-city": "São Paulo",
+        "channel-name": "TV Novo Tempo",
+        "channel-network": "",
+        "channel-city": "Jacareí",
         "channel-uf": "SP",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
 
     "EPG":{
@@ -15,7 +15,7 @@
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "General",
+        "group-title": "Religious",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8"
     }
 }

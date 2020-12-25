@@ -1,50 +1,134 @@
 #EXTM3U
 
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", CNT Manaus
+https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record - Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", CNT Salvador
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record - BA
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+#EXTINF:0 group-title="Legislative" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Assembleia CE
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
 #EXTINF:0 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", ALL Sports TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record - DF
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 #EXTINF:0 group-title="Governmental" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Brasil
 https://video-rvd-pe-cdc-gw-4-1.rnp.br/live/ocp(t(FlM0jMy8CK0)r(fVR9ug)a(yZaYKg)p(d(2xc)k(q8M)m(Y2z8kNxcbsio8GbHKbSdgA)n(a(yUB7ng)s(pEg)'a(DJPRFA)s(2to)))s(s(3RI)b(reymt_1x067kS42ungIx7xCR4bFzftjDklGKcCr66wFJYetU0RBU81_FPhxck31p8jG1Qtgmmldi5QEKfA)'s(nYw)b(N_E-6z_RzWV9MbguJLDW2vgYaDu7yE9niy5zKQHsseVBFmuFQayOBCdIImSB-tm17i_pHL6-GYIPP-eiibBXeHoP6a8BtCL1fJ4HTDNZ)'s(HLo)b(1px-3nh9))m(0))/index.m3u8
 #EXTINF:0 group-title="Legislative" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 group-title="Legislative" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Câmara 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:0 group-title="Education" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Escola
+https://video-rvd-mg-1.rnp.br/live/ocp(t(FlPOW0B8zkg)r(fVR9ug)a(yZaYKg)p(d(2xc)k(q8M)m(XcZEaxEjK7ftZIhwO7f_Og)n(a(izn18Q)s(Yq0)'a(r1A1-Q)s(jTA)))s(s(Tr8)b(lR7JvVzIf51na5bHrQlR9N0OYr4xenE41vrF4ior4J8uoGzZBWy6991Zkb4W8iNswhYh1Tj0vkugBJbaFg)'s(RyU)b(0D_ff2v5FWTk6UkkoLzLaws1Y86XCAHQbGiclkbToLTQiolq6IJdhV12GGT8UeyprfiSg8_0B3l4mBdlMNdHlW_aUOclvOr84K-YPhkw)'s(12w)b(cqRs4je9))m(0))/index.m3u8
 #EXTINF:0 group-title="Legislative" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Senado
 rtsp://drix.senado.gov.br/tv1
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV União Brasília
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:0 group-title="Education" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", UnBTV
+https://video-rvd-mg-1.rnp.br/live/ocp(t(FlPX_xW91dE)r(fVR9ug)a(yZaYKg)p(d(2xc)k(q8M)m(H0rUczp6xxUK-bjBM2mC0A)n(a(eq9-eg)s(4dA)'a(kvpuHw)s(vUs)))s(s(qEE)b(_-dYZvSEgxEnC25qm7HxgjkwHO_CqwWpcL_89lNhh_xsOQUS4DUb7OVumK5uwL8MBUifGnsD_irTNOITZw)'s(FBo)b(gJfb6tRIuleT8di-I2E0WTtmbA4QSIW-Dm6DUXfXB_FnD6ZyqFH5PsLqYJHgBLSNSZnc9V715JgoSb2QejD1jLhlicJJQXYAeOB-iWwN)'s(54o)b(CRZZkoZ7))m(0))/index.m3u8
 #EXTINF:0 group-title="Education" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Fonte TV
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Metrópole News TV
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:0 group-title="Education" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", PUC TV Goiás
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record - GO
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+#EXTINF:0 group-title="Education" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Brasil Central
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8
+#EXTINF:0 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record - MG
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+#EXTINF:0 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
 #EXTINF:0 group-title="Legislative" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
-#EXTINF:0 group-title="Education" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV UFOP
-https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(FlM1vNyyrPk)r(fVR9ug)a(yZaYKg)p(d(2xc)k(q8M)m(AZkmMgp8z-kQybf2YZp1pw)n(a(3mDwWA)s(3jo)'a(kjjJMw)s(XRI)))s(s(JEk)b(29MWrvw2BrqKxjcFKgfwbeOD4RfT_i9VGdF341rDuWcycz74TVxx5c7Cw_Q1ZuCEE5ZZvaCbWCOVPMb-5A)'s(85k)b(OdOblKZd1Ep8PZhRBpJ0i9kwEUnSziQIROnr8YD_VxQgSxZUyVGf2zzBmUYqvBZAaKT-DJyPwb04BU3KyahDLBYpxiH_cxNWn2Yzw_13)'s(TAg)b(qntz92J_))m(0))/index.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Horizonte
+https://www.youtube.com/watch?v=8X0eAnb7A9Q
+#EXTINF:0 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Verdade
+https://www.youtube.com/watch?v=S_KrBXE3Xdk
 #EXTINF:0 group-title="Agro" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", AgroBrasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:0 group-title="Agro" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Canal do Boi
 https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", CNT Cuiabá
+https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba.m3u8
+#EXTINF:0 group-title="Legislative" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Assembleia MT
+https://streaming.al.mt.gov.br/test/index.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record - PA
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Jornal
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:0 group-title="Health" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", CNT Curitiba
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
+#EXTINF:0 group-title="Health" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:0 group-title="Health" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", CNT Londrina
+https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina.m3u8
 #EXTINF:0 group-title="Health" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Canal Saúde
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record - RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:0 group-title="Health" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV INES
 https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FlM1YOkiDw0)r(fVR9ug)a(yZaYKg)p(d(2xc)k(q8M)m(iQwkwV0mHTPS0K56mLr9iw)n(a(HQlftw)s(F1I)'a(sL3dmQ)s(4wE)))s(s(XFw)b(8_GHV0OD4rdWXi8BbSoEUutMTx2FgRTGb1aHw972wS8YBRlggx1keWOrOSkYqml3CdhYkS7xRmhht1djJg)'s(Z0A)b(vg1x0dniteMnRdWc_mJW7uqBFsCwrCFHspgisWZXIu5gDKA1ngQhOfN0UK31JL1xKqxtndRNrcrUTwBOEep4_0CRTpYZZCSZF7SWyAa6)'s(jTQ)b(Thg-z9v5))m(0))/index.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", CNT Caxias
+https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", UPFTV
+https://video-rvd-rj-1.rnp.br/live/ocp(t(FlPX43O7pjw)r(fVR9ug)a(yZaYKg)p(d(2xc)k(q8M)m(zzirk9z7_LRKqnTG-OvzTg)n(a(w43m7w)s(zMQ)'a(vTY3Kg)s(INg)))s(s(Cu4)b(mpDptoGIxWYQIqSTshrhjWhqhin8ymFzLmwa4RG1nDPKCCaamIwgbRURidtXm-diZhPkgvWO7S_K_a9Edw)'s(k08)b(a3KWAU8hVm5260lkkWd4HWyz8CD4F7AXFezi7IBRCHzL8fO9FII4eYA1JQ2gpXtrU6Q5OrRwqZcDq2l25BYT_bCWMG_bzvjOkbLQ8RAY)'s(QAc)b(vsQ6Qhew))m(0))/index.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record - RS
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 #EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", UniTV Porto Alegre
 http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:0 group-title="Education" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Unisc TV
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:0 group-title="Health" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", CNT Americana
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 #EXTINF:0 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Canção Nova
 https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
 #EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Itu TV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:0 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Canal 25 Jundiaí
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Osasco
 https://596639ebdd89b.streamlock.net/8074/8074/playlist.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", VTV
+https://www.youtube.com/watch?v=UwVsDipf_nc
+#EXTINF:0 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Band São Paulo
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Canal do Criador
+https://5f1838950758d.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Canal Rural
+https://5f1838950758d.streamlock.net/live/aovivo.smil/playlist.m3u8
 #EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Loading
-https://centurylink.br.cdn.booyah.live/hls/1000020/master_34850987.m3u8
+https://aws-br.cdn.booyah.live/hls/1000007/master_34850987.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record - SP
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+#EXTINF:0 group-title="News" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Record News
+https://www.youtube.com/watch?v=VQRH6xM6T2o
+#EXTINF:0 group-title="Legislative" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Rede ALESP
+https://www.youtube.com/watch?v=KI0I5BS8GjU
 #EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 #EXTINF:0 group-title="Religious" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Rede Mundial
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", SBT
+https://www.youtube.com/watch?v=ABVQXgr2LW4
+#EXTINF:0 group-title="Agro" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?
 #EXTINF:0 group-title="Legislative" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Câmara SP
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:0 group-title="General" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Gazeta
+
 #EXTINF:0 group-title="Education" tvg-id="" tvg-name="" tvg-logo="" url-tvg="" shift="-3" tvg-language="Portuguese" audio-track="por" shift="-3" aspect-ratio="16:9" subtitles="por" tvg-country="BR" size="Medium" background="#000000", TV Mackienze
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8

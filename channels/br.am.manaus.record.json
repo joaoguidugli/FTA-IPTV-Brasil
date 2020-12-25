@@ -1,11 +1,11 @@
 {
     "INFO":{
-        "channel-name": "TV Gazeta",
-        "channel-network": "Fundação Cásper Líbero",
-        "channel-city": "São Paulo",
-        "channel-uf": "SP",
+        "channel-name": "Record - Manaus",
+        "channel-network": "Rede Record",
+        "channel-city": "Manaus",
+        "channel-uf": "AM",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
 
     "EPG":{
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8"
     }
 }

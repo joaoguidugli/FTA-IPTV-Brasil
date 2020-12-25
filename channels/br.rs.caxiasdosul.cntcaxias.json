@@ -1,9 +1,9 @@
 {
     "INFO":{
-        "channel-name": "TV Gazeta",
-        "channel-network": "Fundação Cásper Líbero",
-        "channel-city": "São Paulo",
-        "channel-uf": "SP",
+        "channel-name": "CNT Caxias",
+        "channel-network": "",
+        "channel-city": "Caxias do Sul",
+        "channel-uf": "RS",
         "channel-codec": "h264",
         "channel-resolution": "720"
     },
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias.m3u8"
     }
 }

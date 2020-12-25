@@ -1,11 +1,11 @@
 {
     "INFO":{
-        "channel-name": "TV Gazeta",
-        "channel-network": "Fundação Cásper Líbero",
-        "channel-city": "São Paulo",
-        "channel-uf": "SP",
+        "channel-name": "CNT Curitiba",
+        "channel-network": "",
+        "channel-city": "Curitiba",
+        "channel-uf": "PR",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
 
     "EPG":{
@@ -15,7 +15,7 @@
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "General",
+        "group-title": "Health",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8"
     }
 }

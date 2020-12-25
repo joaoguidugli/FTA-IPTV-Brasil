@@ -1,11 +1,11 @@
 {
     "INFO":{
-        "channel-name": "TV Gazeta",
-        "channel-network": "Fundação Cásper Líbero",
+        "channel-name": "Canal do Criador",
+        "channel-network": "J&F Investimentos",
         "channel-city": "São Paulo",
         "channel-uf": "SP",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
 
     "EPG":{
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "https://5f1838950758d.streamlock.net/live/smil:canaldocriador.smil/playlist.m3u8"
     }
 }

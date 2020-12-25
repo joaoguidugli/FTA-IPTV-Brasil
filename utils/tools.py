@@ -20,23 +20,29 @@ class Tools ():
 
         #Define VLC player
         self.player = self.instance.media_player_new()
+        self.list_player =  self.instance.media_list_player_new()
+        
 
     def checkChannel ( self, connection ):
         #Define VLC media
-        media=self.instance.media_new(connection)
+        media = self.instance.media_new(connection)
+        media_list = self.instance.media_list_new([connection])
 
         #Set player media
         self.player.set_media(media)
+        
+        self.list_player.set_media_player(self.player)
+        self.list_player.set_media_list(media_list)
 
         #Play the media
-        self.player.play()
+        self.list_player.play()
 
         #Sleep for 10 sec for VLC to complete retries.
-        time.sleep(5)
+        time.sleep(7)
         #Get current state.
-        state = str(self.player.get_state())
+        state = str(self.list_player.get_state())
 
-        self.player.stop()
+        self.list_player.stop()
         return state
 
     def addChannelPlaylist( self, groupTitle, tvgId, tvgName, tvgLogo, urlTvg, shift, tvgLanguage, tvgCountry, channelName, url ):
@@ -56,12 +62,13 @@ class Tools ():
         file.write("\n")
         file.close()
 
-    def createReadMe( self, numChannels ):
+    def createReadMe( self, numChannels, data ):
         file = open("README.md", "w", encoding="utf-8")
         file.write('''<h1 align="center">FTA-IPTV-Brasil 📺</h1>\n''')
         file.write('''<p align="center">\n''')
-        file.write('''<img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />\n''')
+        file.write('''<img alt="Última atualização" src="https://img.shields.io/badge/%C3%9Altima_atualiza%C3%A7%C3%A3o-'''+ data + '''-blue.svg" target="_blank" />\n''')
         file.write('''<img alt="Canais" src="https://img.shields.io/badge/Canais-'''+ numChannels +'''-success" target="_blank" />\n''')
+        file.write('''<img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />\n''')
         file.write('''</p>\n''')
         file.write('''\n''')
         file.write('''> Somente serão adicionadas emissoras gratuitas de sinal aberto. Caso encontre alguma emissora que não se enquadre nesse quesito dentro do banco de dados, comunique o autor.\n''')

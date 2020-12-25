@@ -1,9 +1,9 @@
 {
     "INFO":{
-        "channel-name": "TV Gazeta",
-        "channel-network": "Fundação Cásper Líbero",
-        "channel-city": "São Paulo",
-        "channel-uf": "SP",
+        "channel-name": "TV Horizonte",
+        "channel-network": "",
+        "channel-city": "Belo Horizonte",
+        "channel-uf": "MG",
         "channel-codec": "h264",
         "channel-resolution": "720"
     },
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "https://www.youtube.com/watch?v=8X0eAnb7A9Q"
     }
 }

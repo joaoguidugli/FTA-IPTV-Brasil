@@ -1,0 +1,28 @@
+
+{
+    "INFO": {
+        "channel-name": "TV Arapuan",
+        "channel-network": "RedeTV!",
+        "channel-city": "João Pessoa",
+        "channel-uf": "PB",
+        "channel-codec": "h264",
+        "channel-resolution": "720"
+    },
+    "EPG": {
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "General",
+        "shift": "-3"
+    },
+    "DATA": {
+        "audio-track": "por",
+        "aspect-ratio": "16:9",
+        "subtitles": "por",
+        "background": "#000000",
+        "url": "https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8"
+    }
+}

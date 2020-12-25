@@ -1,11 +1,11 @@
 {
     "INFO":{
-        "channel-name": "TV Gazeta",
-        "channel-network": "Fundação Cásper Líbero",
-        "channel-city": "São Paulo",
-        "channel-uf": "SP",
+        "channel-name": "Rede Super",
+        "channel-network": "",
+        "channel-city": "Belo Horizonte",
+        "channel-uf": "MG",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "432"
     },
 
     "EPG":{
@@ -15,7 +15,7 @@
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "General",
+        "group-title": "Religious",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8"
     }
 }

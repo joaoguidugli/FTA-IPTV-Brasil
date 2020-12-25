@@ -1,10 +1,10 @@
 #Canais Offline
 
-Canal: VTV
-Arquivo: br.sp.santos.vtv.json
+Canal: TV UFOP
+Arquivo: br.mg.ouropreto.tvufop.json
 
-Canal: Rede ALESP
-Arquivo: br.sp.saopaulo.redealesp.json
+Canal: CNT Rio
+Arquivo: br.rj.riodejaneiro.cntrio.json
 
-Canal: TV Gazeta
-Arquivo: br.sp.saopaulo.tvgazeta.json
+Canal: Futura
+Arquivo: br.rj.riodejaneiro.futura.json

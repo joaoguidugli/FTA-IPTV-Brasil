@@ -1,0 +1,27 @@
+{
+    "INFO": {
+      "channel-name": "TV União Brasília",
+      "channel-network": "TV União",
+      "channel-city": "Brasília",
+      "channel-uf": "DF",
+      "channel-codec": "h264",
+      "channel-resolution": "1080"
+    },
+    "EPG": {
+      "tvg-id": "",
+      "tvg-name": "",
+      "url-tvg": "",
+      "tvg-language": "Portuguese",
+      "tvg-country": "BR",
+      "tvg-logo": "",
+      "group-title": "General",
+      "shift": "-3"
+    },
+    "DATA": {
+      "audio-track": "por",
+      "aspect-ratio": "16:9",
+      "subtitles": "por",
+      "background": "#000000",
+      "url": "https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8"
+    }
+  }

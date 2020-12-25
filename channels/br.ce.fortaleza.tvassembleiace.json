@@ -1,0 +1,27 @@
+{
+    "INFO": {
+      "channel-name": "TV Assembleia CE",
+      "channel-network": "",
+      "channel-city": "Fortaleza",
+      "channel-uf": "CE",
+      "channel-codec": "h264",
+      "channel-resolution": "720"
+    },
+    "EPG": {
+      "tvg-id": "",
+      "tvg-name": "",
+      "url-tvg": "",
+      "tvg-language": "Portuguese",
+      "tvg-country": "BR",
+      "tvg-logo": "",
+      "group-title": "Legislative",
+      "shift": "-3"
+    },
+    "DATA": {
+      "audio-track": "por",
+      "aspect-ratio": "16:9",
+      "subtitles": "por",
+      "background": "#000000",
+      "url": "https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8"
+    }
+  }

@@ -1,9 +1,9 @@
 {
     "INFO":{
-        "channel-name": "TV Gazeta",
-        "channel-network": "Fundação Cásper Líbero",
-        "channel-city": "São Paulo",
-        "channel-uf": "SP",
+        "channel-name": "TV Verdade",
+        "channel-network": "",
+        "channel-city": "Lambari",
+        "channel-uf": "MG",
         "channel-codec": "h264",
         "channel-resolution": "720"
     },
@@ -15,7 +15,7 @@
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "General",
+        "group-title": "Religious",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "https://www.youtube.com/watch?v=S_KrBXE3Xdk"
     }
 }

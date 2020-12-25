@@ -1,7 +1,7 @@
 {
     "INFO":{
-        "channel-name": "TV Gazeta",
-        "channel-network": "Fundação Cásper Líbero",
+        "channel-name": "Terra Viva",
+        "channel-network": "",
         "channel-city": "São Paulo",
         "channel-uf": "SP",
         "channel-codec": "h264",
@@ -15,7 +15,7 @@
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "General",
+        "group-title": "Agro",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?"
     }
 }

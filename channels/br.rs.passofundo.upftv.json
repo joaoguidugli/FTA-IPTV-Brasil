@@ -1,0 +1,29 @@
+{
+    "INFO":{
+        "channel-name": "UPFTV",
+        "channel-network": "TV Cultura",
+        "channel-city": "Passo Fundo",
+        "channel-uf": "RS",
+        "channel-codec": "h264",
+        "channel-resolution": "720"
+    },
+
+    "EPG":{
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "General",
+        "shift": "-3"
+    },
+
+    "DATA":{
+    "audio-track": "por",
+    "aspect-ratio": "16:9",
+    "subtitles": "por",
+    "background":"#000000",
+    "url": "https://video-rvd-rj-1.rnp.br/live/ocp(t(FlPX43O7pjw)r(fVR9ug)a(yZaYKg)p(d(2xc)k(q8M)m(zzirk9z7_LRKqnTG-OvzTg)n(a(w43m7w)s(zMQ)'a(vTY3Kg)s(INg)))s(s(Cu4)b(mpDptoGIxWYQIqSTshrhjWhqhin8ymFzLmwa4RG1nDPKCCaamIwgbRURidtXm-diZhPkgvWO7S_K_a9Edw)'s(k08)b(a3KWAU8hVm5260lkkWd4HWyz8CD4F7AXFezi7IBRCHzL8fO9FII4eYA1JQ2gpXtrU6Q5OrRwqZcDq2l25BYT_bCWMG_bzvjOkbLQ8RAY)'s(QAc)b(vsQ6Qhew))m(0))/index.m3u8"
+    }
+}

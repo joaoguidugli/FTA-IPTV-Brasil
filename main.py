@@ -3,6 +3,7 @@
 import json
 import os
 from utils.tools import Tools
+from datetime import datetime
 
 
 obj = Tools()
@@ -36,4 +37,6 @@ for entry in entries:
         )
         numChannels += 1
 
-obj.createReadMe(str(numChannels))
+now = datetime.now()
+data = (str(now.day) + "/" + str(now.month) + "/" + str(now.year))
+obj.createReadMe(str(numChannels), data)

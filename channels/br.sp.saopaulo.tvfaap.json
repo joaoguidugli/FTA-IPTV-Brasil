@@ -1,11 +1,11 @@
 {
     "INFO":{
-        "channel-name": "TV Gazeta",
-        "channel-network": "Fundação Cásper Líbero",
+        "channel-name": "TV Faap",
+        "channel-network": "Fundação Armando Alvares Penteado",
         "channel-city": "São Paulo",
         "channel-uf": "SP",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
 
     "EPG":{
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8"
     }
 }
