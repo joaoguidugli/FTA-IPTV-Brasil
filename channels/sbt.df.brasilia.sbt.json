@@ -1,20 +1,20 @@
 {
     "INFO": {
-        "channel-name": "Canal do Boi",
-        "channel-network": "",
-        "channel-city": "Campo Grande",
-        "channel-uf": "MS",
+        "channel-name": "SBT Brasília",
+        "channel-network": "SBT",
+        "channel-city": "Brasília",
+        "channel-uf": "DF",
         "channel-codec": "h264",
-        "channel-resolution": "480"
+        "channel-resolution": "1080"
     },
     "EPG": {
-        "tvg-id": "CanaldoBoi.br(m3u4u)",
-        "tvg-name": "Canal do Boi",
+        "tvg-id": "SBT.br(m3u4u)",
+        "tvg-name": "SBT Brasília",
         "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "Agro",
+        "group-title": "General",
         "shift": "-3"
     },
     "DATA": {
@@ -22,6 +22,6 @@
         "aspect-ratio": "16:9",
         "subtitles": "por",
         "background": "#000000",
-        "url": "https://aovivo.equipea.com.br:5443/WebRTCAppEE/streams/713829795440060188004130.m3u8"
+        "url": "https://www.youtube.com/watch?v=7iyj0zrA9P8"
     }
 }

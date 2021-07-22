@@ -1,7 +1,7 @@
 {
     "INFO":{
         "channel-name": "CNT Cuiabá",
-        "channel-network": "",
+        "channel-network": "CNT",
         "channel-city": "Cuiabá",
         "channel-uf": "MT",
         "channel-codec": "h264",

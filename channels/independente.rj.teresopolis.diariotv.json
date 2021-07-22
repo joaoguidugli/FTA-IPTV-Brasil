@@ -1,21 +1,21 @@
 {
     "INFO":{
-        "channel-name": "TV Verdade",
+        "channel-name": "Diário TV Teresópolis",
         "channel-network": "",
-        "channel-city": "Lambari",
-        "channel-uf": "MG",
+        "channel-city": "Teresópolis",
+        "channel-uf": "RJ",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
 
     "EPG":{
         "tvg-id": "",
-        "tvg-name": "",
+        "tvg-name": "Diário TV Teresópolis",
         "url-tvg": "",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
-        "tvg-logo": "",
-        "group-title": "Religious",
+        "tvg-logo": "https://www.netdiario.com.br/img/logo.png",
+        "group-title": "News",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://www.youtube.com/watch?v=S_KrBXE3Xdk"
+    "url": "https://www.youtube.com/watch?v=2DEN81Q3Pn0"
     }
 }

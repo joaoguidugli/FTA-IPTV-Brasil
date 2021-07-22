@@ -1,21 +1,21 @@
 {
     "INFO":{
-        "channel-name": "Terra Viva",
+        "channel-name": "CNT Salvador",
         "channel-network": "",
-        "channel-city": "São Paulo",
-        "channel-uf": "SP",
+        "channel-city": "Salvador",
+        "channel-uf": "BA",
         "channel-codec": "h264",
         "channel-resolution": "720"
     },
 
     "EPG":{
-        "tvg-id": "Terraviva.br(m3u4u)",
-        "tvg-name": "Terra Viva",
+        "tvg-id": "CNTBahia.br(m3u4u)",
+        "tvg-name": "CNT Salvador",
         "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
-        "tvg-logo": "",
-        "group-title": "Agro",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/CNT_logo.svg/750px-CNT_logo.svg.png",
+        "group-title": "Geral",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?"
+    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador.m3u8"
     }
 }

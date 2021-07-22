@@ -8,9 +8,9 @@
       "channel-resolution": "1080"
     },
     "EPG": {
-      "tvg-id": "",
-      "tvg-name": "",
-      "url-tvg": "",
+      "tvg-id": "Band.br(m3u4u)",
+      "tvg-name": "Band São Paulo",
+      "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
       "tvg-language": "Portuguese",
       "tvg-country": "BR",
       "tvg-logo": "",

@@ -8,13 +8,13 @@
       "channel-resolution": "720"
     },
     "EPG": {
-      "tvg-id": "",
-      "tvg-name": "",
-      "url-tvg": "",
+      "tvg-id": "TVEscola.br(m3u4u)",
+      "tvg-name": "TV Escola",
+      "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
       "tvg-language": "Portuguese",
       "tvg-country": "BR",
-      "tvg-logo": "",
-      "group-title": "Education",
+      "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png",
+      "group-title": "Educação",
       "shift": "-3"
     },
     "DATA": {

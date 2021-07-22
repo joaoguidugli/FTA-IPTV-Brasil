@@ -1,17 +1,17 @@
 {
     "INFO":{
-        "channel-name": "Record - RJ",
+        "channel-name": "RecordTV Goiás",
         "channel-network": "Rede Record",
-        "channel-city": "Rio de Janeiro",
-        "channel-uf": "RJ",
+        "channel-city": "Goiânia",
+        "channel-uf": "GO",
         "channel-codec": "h264",
         "channel-resolution": "1080"
     },
 
     "EPG":{
-        "tvg-id": "",
-        "tvg-name": "",
-        "url-tvg": "",
+        "tvg-id": "RecordTVGoias.br(m3u4u)",
+        "tvg-name": "RecordTV Goiás",
+        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8"
+    "url": "https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8"
     }
 }

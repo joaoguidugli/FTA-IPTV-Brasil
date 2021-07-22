@@ -9,9 +9,9 @@
     },
 
     "EPG":{
-        "tvg-id": "",
-        "tvg-name": "",
-        "url-tvg": "",
+        "tvg-id": "Futura(m3u4u)",
+        "tvg-name": "Futura",
+        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://live-fe-as-03-25.video.globo.com/d/s/hls-futura24ha/playlist.m3u8?h=04116089112437388559408160891473051319147857jKWZ2__9yYl531bB53rGg&k=html5&a=A&u="
+    "url": "https://live-fe-as-11-35.video.globo.com/d/e/nl/s/hls-futura24ha/playlist.m3u8?h=0411627065808138251518316269794490778159100ZZKHsL19abG3hIQsqkAGHw&k=html5&a=F&u=BR~9affe08e-621f-4a36-942d-92a31138ff4f"
     }
 }

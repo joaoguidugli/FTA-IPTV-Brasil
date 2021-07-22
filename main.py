@@ -16,26 +16,35 @@ for entry in entries:
     data = json.load(test) 
     connection = data['DATA']['url']
 
-    state = obj.checkChannel(connection)
-    if state == "State.Ended" or state == "State.Error":
+    if not connection:
         obj.addChannelListOffline(
             data['INFO']['channel-name'],
             entry
         )
     else:
-        obj.addChannelPlaylist(
-            data['EPG']['group-title'],
-            data['EPG']['tvg-id'],
-            data['EPG']['tvg-name'],
-            data['EPG']['tvg-logo'],
-            data['EPG']['url-tvg'],
-            data['EPG']['shift'],
-            data['EPG']['tvg-language'],
-            data['EPG']['tvg-country'],
-            data['INFO']['channel-name'],
-            data['DATA']['url']
-        )
-        numChannels += 1
+        state = obj.checkChannel(connection)
+        if state == "State.Ended" or state == "State.Error":
+            obj.addChannelListOffline(
+                data['INFO']['channel-name'],
+                entry
+            )
+        else:
+            obj.addChannelPlaylist(
+                data['EPG']['group-title'],
+                data['EPG']['tvg-id'],
+                data['EPG']['tvg-name'],
+                data['EPG']['tvg-logo'],
+                data['EPG']['url-tvg'],
+                data['EPG']['shift'],
+                data['EPG']['tvg-language'],
+                data['EPG']['tvg-country'],
+                data['INFO']['channel-name'],
+                data['DATA']['url']
+            )
+            numChannels += 1
+
+
+
 
 now = datetime.now()
 data = (str(now.day) + "/" + str(now.month) + "/" + str(now.year))

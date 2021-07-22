@@ -1,9 +1,9 @@
 {
     "INFO":{
-        "channel-name": "TV Câmara SP",
-        "channel-network": "",
-        "channel-city": "São Paulo",
-        "channel-uf": "SP",
+        "channel-name": "CNT Manaus",
+        "channel-network": "CNT",
+        "channel-city": "Manaus",
+        "channel-uf": "AM",
         "channel-codec": "h264",
         "channel-resolution": "720"
     },
@@ -14,8 +14,8 @@
         "url-tvg": "",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
-        "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_tvcamara_.png/800px-Logo_tvcamara_.png",
-        "group-title": "Legislative",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/CNT_logo.svg/750px-CNT_logo.svg.png",
+        "group-title": "Geral",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8"
+    "url": "https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus.m3u8"
     }
 }

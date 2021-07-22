@@ -1,0 +1,29 @@
+{
+    "INFO":{
+        "channel-name": "TV Diário",
+        "channel-network": "",
+        "channel-city": "Fortaleza",
+        "channel-uf": "CE",
+        "channel-codec": "h264",
+        "channel-resolution": "1080"
+    },
+
+    "EPG":{
+        "tvg-id": "",
+        "tvg-name": "TV Diário",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/500px-TV_Di%C3%A1rio_logo.svg.png",
+        "group-title": "",
+        "shift": "-3"
+    },
+
+    "DATA":{
+    "audio-track": "por",
+    "aspect-ratio": "16:9",
+    "subtitles": "por",
+    "background":"#000000",
+    "url": "https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZaa_-N3atHKM7WKk4pr3_Z8)/dm/3/x7txn7q/s/live-2.m3u8"
+    }
+}

@@ -1,12 +1,11 @@
-
 {
     "INFO": {
-        "channel-name": "TV Arapuan",
-        "channel-network": "RedeTV!",
-        "channel-city": "João Pessoa",
-        "channel-uf": "PB",
+        "channel-name": "TV Cidade Verde Piauí",
+        "channel-network": "SBT",
+        "channel-city": "Teresina",
+        "channel-uf": "PI",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
     "EPG": {
         "tvg-id": "",
@@ -23,6 +22,6 @@
         "aspect-ratio": "16:9",
         "subtitles": "por",
         "background": "#000000",
-        "url": "https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8"
+        "url": "https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8"
     }
 }

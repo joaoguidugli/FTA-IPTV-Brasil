@@ -1,6 +1,6 @@
 {
     "INFO": {
-      "channel-name": "TV Assembleia CE",
+      "channel-name": "TV Assembleia - Ceará",
       "channel-network": "",
       "channel-city": "Fortaleza",
       "channel-uf": "CE",
@@ -8,13 +8,13 @@
       "channel-resolution": "720"
     },
     "EPG": {
-      "tvg-id": "",
-      "tvg-name": "",
-      "url-tvg": "",
+      "tvg-id": "AssembleiaLegislativaCeara.br(m3u4u)",
+      "tvg-name": "Assembleia Legislativa Ceará",
+      "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
       "tvg-language": "Portuguese",
       "tvg-country": "BR",
-      "tvg-logo": "",
-      "group-title": "Legislative",
+      "tvg-logo": "https://i.imgur.com/oDDuqms.png",
+      "group-title": "Legislativo",
       "shift": "-3"
     },
     "DATA": {

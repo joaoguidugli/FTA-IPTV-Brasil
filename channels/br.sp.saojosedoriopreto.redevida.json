@@ -9,9 +9,9 @@
     },
 
     "EPG":{
-        "tvg-id": "",
-        "tvg-name": "",
-        "url-tvg": "",
+        "tvg-id": "RedeVida.br(m3u4u)",
+        "tvg-name": "Rede Vida",
+        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",

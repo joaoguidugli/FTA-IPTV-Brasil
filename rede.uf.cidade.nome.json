@@ -1,9 +1,9 @@
 {
     "INFO":{
-        "channel-name": "Loading",
-        "channel-network": "Spring Comunicação",
-        "channel-city": "São Paulo",
-        "channel-uf": "SP",
+        "channel-name": "",
+        "channel-network": "",
+        "channel-city": "",
+        "channel-uf": "",
         "channel-codec": "h264",
         "channel-resolution": "1080"
     },
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://aws-br.cdn.booyah.live/hls/1000007/master_34850987.m3u8"
+    "url": ""
     }
 }

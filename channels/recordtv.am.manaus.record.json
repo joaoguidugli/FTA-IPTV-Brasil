@@ -1,21 +1,21 @@
 {
     "INFO":{
-        "channel-name": "CNT Manaus",
-        "channel-network": "",
+        "channel-name": "RecordTV Manaus",
+        "channel-network": "Rede Record",
         "channel-city": "Manaus",
         "channel-uf": "AM",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
 
     "EPG":{
         "tvg-id": "",
-        "tvg-name": "",
+        "tvg-name": "RecordTV Manaus",
         "url-tvg": "",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
-        "tvg-logo": "",
-        "group-title": "General",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/pt/0/0b/Logotipo_da_RecordTV_Manaus.png",
+        "group-title": "Geral",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus.m3u8"
+    "url": "https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8"
     }
 }

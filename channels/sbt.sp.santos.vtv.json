@@ -1,14 +1,13 @@
 {
-    "INFO":{
-        "channel-name": "VTV",
+    "INFO": {
+        "channel-name": "VTV SBT",
         "channel-network": "SBT",
         "channel-city": "Santos",
         "channel-uf": "SP",
         "channel-codec": "h264",
         "channel-resolution": "1080"
     },
-
-    "EPG":{
+    "EPG": {
         "tvg-id": "",
         "tvg-name": "",
         "url-tvg": "",
@@ -18,12 +17,11 @@
         "group-title": "General",
         "shift": "-3"
     },
-
-    "DATA":{
-    "audio-track": "por",
-    "aspect-ratio": "16:9",
-    "subtitles": "por",
-    "background":"#000000",
-    "url": "https://www.youtube.com/watch?v=UwVsDipf_nc"
+    "DATA": {
+        "audio-track": "por",
+        "aspect-ratio": "16:9",
+        "subtitles": "por",
+        "background": "#000000",
+        "url": "https://www.youtube.com/watch?v=9PEd0FlvILw"
     }
 }

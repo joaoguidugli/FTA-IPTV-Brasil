@@ -1,6 +1,6 @@
 {
     "INFO":{
-        "channel-name": "Record - DF",
+        "channel-name": "RecordTV Brasília",
         "channel-network": "Rede Record",
         "channel-city": "Brasília",
         "channel-uf": "DF",
@@ -9,13 +9,13 @@
     },
 
     "EPG":{
-        "tvg-id": "",
-        "tvg-name": "",
-        "url-tvg": "",
+        "tvg-id": "RecordTVBrasilia.br(m3u4u)",
+        "tvg-name": "RecordTV Brasília",
+        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
-        "tvg-logo": "",
-        "group-title": "General",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/pt/2/2a/Logotipo_da_RecordTV_Bras%C3%ADlia.png",
+        "group-title": "Geral",
         "shift": "-3"
     },
 

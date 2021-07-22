@@ -1,20 +1,20 @@
 {
     "INFO": {
-        "channel-name": "ALL Sports TV",
-        "channel-network": "",
-        "channel-city": "Brasília",
-        "channel-uf": "DF",
+        "channel-name": "SCC SBT",
+        "channel-network": "SBT",
+        "channel-city": "Florianópolis",
+        "channel-uf": "SC",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
     "EPG": {
         "tvg-id": "",
         "tvg-name": "",
-        "url-tvg": "https://i.imgur.com/T37KWjg.png",
+        "url-tvg": "",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "Esportes",
+        "group-title": "General",
         "shift": "-3"
     },
     "DATA": {
@@ -22,6 +22,6 @@
         "aspect-ratio": "16:9",
         "subtitles": "por",
         "background": "#000000",
-        "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8"
+        "url": "https://www.youtube.com/watch?v=t_On_x1yOlo"
     }
 }

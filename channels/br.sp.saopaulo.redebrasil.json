@@ -9,9 +9,9 @@
     },
 
     "EPG":{
-        "tvg-id": "",
-        "tvg-name": "",
-        "url-tvg": "",
+        "tvg-id": "RedeBrasil.br(m3u4u)",
+        "tvg-name": "Rede Brasil",
+        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8"
+    "url": "https://video01.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8"
     }
 }

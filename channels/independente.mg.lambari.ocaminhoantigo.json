@@ -1,9 +1,9 @@
 {
     "INFO":{
-        "channel-name": "CNT Salvador",
+        "channel-name": "O Caminho Antigo",
         "channel-network": "",
-        "channel-city": "Salvador",
-        "channel-uf": "BA",
+        "channel-city": "Lambari",
+        "channel-uf": "MG",
         "channel-codec": "h264",
         "channel-resolution": "720"
     },
@@ -15,7 +15,7 @@
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "General",
+        "group-title": "Religious",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador.m3u8"
+    "url": "https://www.youtube.com/watch?v=XD3fuyYSbrU"
     }
 }

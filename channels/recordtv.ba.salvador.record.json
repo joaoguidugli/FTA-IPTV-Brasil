@@ -1,21 +1,21 @@
 {
     "INFO":{
-        "channel-name": "Record - Manaus",
+        "channel-name": "RecordTV Itapoan",
         "channel-network": "Rede Record",
-        "channel-city": "Manaus",
-        "channel-uf": "AM",
+        "channel-city": "Salvador",
+        "channel-uf": "BA",
         "channel-codec": "h264",
         "channel-resolution": "1080"
     },
 
     "EPG":{
         "tvg-id": "",
-        "tvg-name": "",
+        "tvg-name": "RecordTV Itapoan",
         "url-tvg": "",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
-        "tvg-logo": "",
-        "group-title": "General",
+        "tvg-logo": "https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_RecordTV_Itapoan.png",
+        "group-title": "Geral",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8"
+    "url": "https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8"
     }
 }

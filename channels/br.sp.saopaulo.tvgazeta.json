@@ -9,9 +9,9 @@
     },
 
     "EPG":{
-        "tvg-id": "",
-        "tvg-name": "",
-        "url-tvg": "",
+        "tvg-id": "Gazeta.br(m3u4u)",
+        "tvg-name": "TV Gazeta",
+        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": ""
+    "url": "https://playback2.akamaized.net/streams/5381476_8947634_lsil1uppo69u457y48d_1/master.m3u8?dw=14400&hdnts=exp=1626979436~acl=/streams/5381476_8947634_lsil1uppo69u457y48d_1/master.m3u8*~hmac=34243bfa836786bebb261abf389f251d17b698354717b4112fecd1fd8fc36ee2"
     }
 }

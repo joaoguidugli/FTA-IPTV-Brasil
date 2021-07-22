@@ -1,7 +1,7 @@
 {
     "INFO":{
-        "channel-name": "Record News",
-        "channel-network": "",
+        "channel-name": "RecordTV São Paulo",
+        "channel-network": "Rede Record",
         "channel-city": "São Paulo",
         "channel-uf": "SP",
         "channel-codec": "h264",
@@ -9,13 +9,13 @@
     },
 
     "EPG":{
-        "tvg-id": "",
-        "tvg-name": "",
-        "url-tvg": "",
+        "tvg-id": "RecordTVSaoPaulo.br(m3u4u)",
+        "tvg-name": "RecordTV São Paulo",
+        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "News",
+        "group-title": "General",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://www.youtube.com/watch?v=VQRH6xM6T2o"
+    "url": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8"
     }
 }

@@ -9,9 +9,9 @@
     },
 
     "EPG":{
-        "tvg-id": "",
-        "tvg-name": "",
-        "url-tvg": "",
+        "tvg-id": "CancaoNova.br(m3u4u)",
+        "tvg-name": "Canção Nova",
+        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8"
+    "url": "https://www.youtube.com/watch?v=gc4x2Q3Xw8M"
     }
 }

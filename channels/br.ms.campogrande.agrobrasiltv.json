@@ -8,9 +8,9 @@
         "channel-resolution": "480"
     },
     "EPG": {
-        "tvg-id": "",
-        "tvg-name": "",
-        "url-tvg": "",
+        "tvg-id": "AgroBrasilTV.br(m3u4u)",
+        "tvg-name": "AgroBrasil TV",
+        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",

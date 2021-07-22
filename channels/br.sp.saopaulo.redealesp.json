@@ -9,9 +9,9 @@
     },
 
     "EPG":{
-        "tvg-id": "",
-        "tvg-name": "",
-        "url-tvg": "",
+        "tvg-id": "TVALESP.br(m3u4u)",
+        "tvg-name": "Rede ALESP",
+        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://www.youtube.com/watch?v=KI0I5BS8GjU"
+    "url": "https://www.youtube.com/watch?v=cEH6-CaJBz4"
     }
 }

@@ -9,13 +9,13 @@
       "channel-resolution": "1080"
     },
     "EPG": {
-      "tvg-id": "",
-      "tvg-name": "",
-      "url-tvg": "",
+      "tvg-id": "TVBrasil.br(m3u4u)",
+      "tvg-name": "TV Brasil",
+      "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
       "tvg-language": "Portuguese",
       "tvg-country": "BR",
-      "tvg-logo": "",
-      "group-title": "Governmental",
+      "tvg-logo": "https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png",
+      "group-title": "Governamental",
       "shift": "-3"
     },
     "DATA": {
