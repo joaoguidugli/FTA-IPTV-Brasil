@@ -1,21 +1,21 @@
 {
     "INFO":{
-        "channel-name": "Diário TV Teresópolis",
-        "channel-network": "",
-        "channel-city": "Teresópolis",
-        "channel-uf": "RJ",
+        "channel-name": "TV Guarapari",
+        "channel-network": "Rede Minas",
+        "channel-city": "Guarapari",
+        "channel-uf": "ES",
         "channel-codec": "h264",
         "channel-resolution": "1080"
     },
 
     "EPG":{
         "tvg-id": "",
-        "tvg-name": "Diário TV Teresópolis",
+        "tvg-name": "",
         "url-tvg": "",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
-        "tvg-logo": "https://www.netdiario.com.br/img/logo.png",
-        "group-title": "News",
+        "tvg-logo": "",
+        "group-title": "General",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://www.youtube.com/channel/UCYA_8op4pkwqWxbmcW-pzzQ/live"
+    "url": "https://video.wellhost.com.br/tvguarapari/tvguarapari/playlist.m3u8"
     }
 }

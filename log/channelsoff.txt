@@ -1,16 +1,7 @@
 #Canais Offline
 
+Canal: Futura
+Arquivo: br.rj.riodejaneiro.futura.json
+
 Canal: TV Faap
 Arquivo: br.sp.saopaulo.tvfaap.json
-
-Canal: TV Gazeta
-Arquivo: br.sp.saopaulo.tvgazeta.json
-
-Canal: CNT Londrina
-Arquivo: cnt.pr.londrina.cntlondrina.json
-
-Canal: SBT Pará
-Arquivo: sbt.pa.belem.sbt.json
-
-Canal: VTV SBT
-Arquivo: sbt.sp.santos.vtv.json

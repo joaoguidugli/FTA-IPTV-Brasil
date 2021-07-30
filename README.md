@@ -1,7 +1,7 @@
 <h1 align="center">FTA-IPTV-Brasil 📺</h1>
 <p align="center">
-<img alt="Última atualização" src="https://img.shields.io/badge/%C3%9Altima_atualiza%C3%A7%C3%A3o-22/7/2021-blue.svg" target="_blank" />
-<img alt="Canais" src="https://img.shields.io/badge/Canais-70-success" target="_blank" />
+<img alt="Última atualização" src="https://img.shields.io/badge/%C3%9Altima_atualiza%C3%A7%C3%A3o-29/7/2021-blue.svg" target="_blank" />
+<img alt="Canais" src="https://img.shields.io/badge/Canais-82-success" target="_blank" />
 <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
 </p>
 
@@ -9,15 +9,11 @@
 
 Este projeto tem em vista montar um banco de dados com os canais disponíveis no Brasil de forma gratuita, via FTA (free-to-air), que se encontram na internet, com o objetivo de dinfundir o conhecimento sobre IPTV e o acesso a informação.
 
-Além disso possui um sistema de verificação da validade do link cadastrado, através do VLC, que pode ser visto em `main.py`, que gera a lista `playlist.m3u8`, contendo apenas canais em funcionamento.
+Além disso possui um sistema de verificação da validade do link cadastrado,  através do VLC, que pode ser visto em `main.py`, que gera a lista `playlist.m3u8`, contendo apenas canais em funcionamento.
 
 ```sh
 https://raw.githubusercontent.com/joaoguidugli/FTA-IPTV-Brasil/master/playlist.m3u8
 ```
-
-## ⚙️ Últimas atualizações
-
-Tive que paralisar por um tempo o projeto e seguirei em marcha lenta daqui em diante, fazendo poucas atualizações e cadastros pontuais. Revisei algumas coisas e a partir de agora os cadastros dos arquivos `.json` serão feitos utilizando a seguinte formatação: `rede.uf.cidade.nome`, pois facilita o controle e organização dos canais. **Aceito propostas de ajuda e de funcionalidades a serem implementadas.** 🙃
 
 ## ✅ Funcionalidades
 

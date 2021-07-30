@@ -16,7 +16,7 @@ class Tools ():
         file.close()
         
         #define VLC instance
-        self.instance = vlc.Instance('--input-repeat=-1', '--fullscreen', '--no-xlib', '--vout=dummy')
+        self.instance = vlc.Instance('--input-repeat=-1', '--fullscreen', '--no-xlib', '--vout=dummy', '--verbose=-1')
 
         #Define VLC player
         self.player = self.instance.media_player_new()

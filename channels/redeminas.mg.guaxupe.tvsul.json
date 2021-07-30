@@ -1,17 +1,17 @@
 {
     "INFO":{
-        "channel-name": "TV Horizonte",
-        "channel-network": "",
-        "channel-city": "Belo Horizonte",
+        "channel-name": "TV Sul",
+        "channel-network": "Rede Minas",
+        "channel-city": "Guaxupé",
         "channel-uf": "MG",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
 
     "EPG":{
-        "tvg-id": "HorizonteTV.br(m3u4u)",
-        "tvg-name": "TV Horizonte",
-        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://www.youtube.com/channel/UC_n4rC_MIZVtpKHmtIc_QbQ/live"
+    "url": "http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     }
 }

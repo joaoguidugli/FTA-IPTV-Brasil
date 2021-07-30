@@ -15,12 +15,16 @@ for entry in entries:
     test = open('./channels/' + entry,)
     data = json.load(test) 
     connection = data['DATA']['url']
+    name = data['INFO']['channel-name']
+
+    print('[VERIFICANDO CANAL] ' + name)
 
     if not connection:
         obj.addChannelListOffline(
             data['INFO']['channel-name'],
             entry
         )
+        print('Canal Offline')
     else:
         state = obj.checkChannel(connection)
         if state == "State.Ended" or state == "State.Error":
@@ -28,6 +32,7 @@ for entry in entries:
                 data['INFO']['channel-name'],
                 entry
             )
+            print('Canal Offline')
         else:
             obj.addChannelPlaylist(
                 data['EPG']['group-title'],
@@ -41,6 +46,7 @@ for entry in entries:
                 data['INFO']['channel-name'],
                 data['DATA']['url']
             )
+            print('Canal Online')
             numChannels += 1
 
 

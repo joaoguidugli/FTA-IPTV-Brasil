@@ -1,17 +1,17 @@
 {
     "INFO":{
-        "channel-name": "TV Horizonte",
-        "channel-network": "",
-        "channel-city": "Belo Horizonte",
+        "channel-name": "TV Vale",
+        "channel-network": "Rede Minas",
+        "channel-city": "Diamantina",
         "channel-uf": "MG",
         "channel-codec": "h264",
-        "channel-resolution": "720"
+        "channel-resolution": "1080"
     },
 
     "EPG":{
-        "tvg-id": "HorizonteTV.br(m3u4u)",
-        "tvg-name": "TV Horizonte",
-        "url-tvg": "http://m3u4u.com/epg/4z2xnjvm7wh64zznv158",
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://www.youtube.com/channel/UC_n4rC_MIZVtpKHmtIc_QbQ/live"
+    "url": "https://livefocamundo.com:8081/tvvale/tracks-v1a1/mono.m3u8"
     }
 }

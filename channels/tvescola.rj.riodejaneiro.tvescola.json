@@ -1,9 +1,9 @@
 {
     "INFO": {
       "channel-name": "TV Escola",
-      "channel-network": "Associação de Comunicação Educativa Roquette Pinto",
-      "channel-city": "Brasília",
-      "channel-uf": "DF",
+      "channel-network": "TV Escola",
+      "channel-city": "Rio de Janeiro",
+      "channel-uf": "RJ",
       "channel-codec": "h264",
       "channel-resolution": "720"
     },

@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://playback2.akamaized.net/streams/5381476_8947634_lsil1uppo69u457y48d_1/master.m3u8?dw=14400&hdnts=exp=1626979436~acl=/streams/5381476_8947634_lsil1uppo69u457y48d_1/master.m3u8*~hmac=34243bfa836786bebb261abf389f251d17b698354717b4112fecd1fd8fc36ee2"
+    "url": "https://player-api.new.livestream.com/accounts/5381476/events/8947634/broadcasts/224142137.secure.m3u8?dw=14400&hdnea=st%3D1627605203~exp%3D1627607003~acl%3D%2Fi%2F5381476_8947634_lsijvhm3xqhuuxg8p60_1%40408727%2F%2A~hmac%3Dd4aae60d9ada38df807f099bbd28a5fd64192a65f529a909f9570bfed429404d&token=610349ff_caf82e76d06d8ef875f2b23784c55236639acad8"
     }
 }
