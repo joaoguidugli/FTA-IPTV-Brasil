@@ -1,0 +1,29 @@
+{
+    "INFO":{
+        "channel-name": "TopTV",
+        "channel-network": "",
+        "channel-city": "São Paulo",
+        "channel-uf": "SP",
+        "channel-codec": "h264",
+        "channel-resolution": "1080"
+    },
+
+    "EPG":{
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "General",
+        "shift": "-3"
+    },
+
+    "DATA":{
+    "audio-track": "por",
+    "aspect-ratio": "16:9",
+    "subtitles": "por",
+    "background":"#000000",
+    "url": "https://cast.cdnseguro.com:19360/8092/8092.m3u8"
+    }
+}

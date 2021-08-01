@@ -1,0 +1,29 @@
+{
+    "INFO":{
+        "channel-name": "UniTV Porto Alegre",
+        "channel-network": "",
+        "channel-city": "Porto Alegre",
+        "channel-uf": "RS",
+        "channel-codec": "theora",
+        "channel-resolution": "480"
+    },
+
+    "EPG":{
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "General",
+        "shift": "-3"
+    },
+
+    "DATA":{
+    "audio-track": "por",
+    "aspect-ratio": "16:9",
+    "subtitles": "por",
+    "background":"#000000",
+    "url": "http://unitvaovivo.ufrgs.br:8080/live.ogg"
+    }
+}

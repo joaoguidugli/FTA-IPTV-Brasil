@@ -1,0 +1,29 @@
+{
+    "INFO":{
+        "channel-name": "SIC TV",
+        "channel-network": "",
+        "channel-city": "Porto Velho",
+        "channel-uf": "RO",
+        "channel-codec": "h264",
+        "channel-resolution": "1080"
+    },
+
+    "EPG":{
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "General",
+        "shift": "-3"
+    },
+
+    "DATA":{
+    "audio-track": "por",
+    "aspect-ratio": "16:9",
+    "subtitles": "por",
+    "background":"#000000",
+    "url": "http://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8"
+    }
+}

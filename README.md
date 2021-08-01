@@ -1,7 +1,7 @@
 <h1 align="center">FTA-IPTV-Brasil 📺</h1>
 <p align="center">
-<img alt="Última atualização" src="https://img.shields.io/badge/%C3%9Altima_atualiza%C3%A7%C3%A3o-29/7/2021-blue.svg" target="_blank" />
-<img alt="Canais" src="https://img.shields.io/badge/Canais-82-success" target="_blank" />
+<img alt="Última atualização" src="https://img.shields.io/badge/%C3%9Altima_atualiza%C3%A7%C3%A3o-1/8/2021-blue.svg" target="_blank" />
+<img alt="Canais" src="https://img.shields.io/badge/Canais-97-success" target="_blank" />
 <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
 </p>
 

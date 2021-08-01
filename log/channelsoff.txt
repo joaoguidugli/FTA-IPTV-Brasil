@@ -1,7 +1,34 @@
 #Canais Offline
 
+Canal: CNT Manaus
+Arquivo: am.manaus.cntmanaus [cnt].json
+
+Canal: Fonte TV
+Arquivo: go.goiania.fontetv [redefonte].json
+
 Canal: Futura
-Arquivo: br.rj.riodejaneiro.futura.json
+Arquivo: rj.riodejaneiro.futura [futura].json
+
+Canal: UPFTV
+Arquivo: rs.passofundo.upftv [tvcultura].json
+
+Canal: TV Pampa
+Arquivo: rs.portoalegre.tvpampa [redetv].json
+
+Canal: Unisc TV
+Arquivo: rs.santacruzdosul.unisctv [futura].json
+
+Canal: TV Osasco
+Arquivo: sp.osasco.tvosasco [semrede].json
+
+Canal: VTV SBT
+Arquivo: sp.santos.vtv [sbt].json
+
+Canal: Rede Brasil
+Arquivo: sp.saopaulo.redebrasil [redemundial].json
 
 Canal: TV Faap
-Arquivo: br.sp.saopaulo.tvfaap.json
+Arquivo: sp.saopaulo.tvfaap [semrede].json
+
+Canal: TV Gazeta
+Arquivo: sp.saopaulo.tvgazeta [tvgazeta].json

@@ -1,0 +1,29 @@
+{
+    "INFO":{
+        "channel-name": "TV Serra Dourada",
+        "channel-network": "SBT",
+        "channel-city": "Goiânia",
+        "channel-uf": "GO",
+        "channel-codec": "h264",
+        "channel-resolution": "1080"
+    },
+
+    "EPG":{
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "General",
+        "shift": "-3"
+    },
+
+    "DATA":{
+    "audio-track": "por",
+    "aspect-ratio": "16:9",
+    "subtitles": "por",
+    "background":"#000000",
+    "url": "https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "INFO": {
+        "channel-name": "RBA TV",
+        "channel-network": "",
+        "channel-city": "Belém",
+        "channel-uf": "PA",
+        "channel-codec": "h264",
+        "channel-resolution": "1080"
+    },
+    "EPG": {
+        "tvg-id": "",
+        "tvg-name": "",
+        "url-tvg": "",
+        "tvg-language": "Portuguese",
+        "tvg-country": "BR",
+        "tvg-logo": "",
+        "group-title": "General",
+        "shift": "-3"
+    },
+    "DATA": {
+        "audio-track": "por",
+        "aspect-ratio": "16:9",
+        "subtitles": "por",
+        "background": "#000000",
+        "url": "https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8"
+    }
+}

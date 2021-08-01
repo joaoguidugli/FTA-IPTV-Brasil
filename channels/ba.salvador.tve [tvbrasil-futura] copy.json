@@ -1,9 +1,9 @@
 {
     "INFO":{
-        "channel-name": "NTV",
-        "channel-network": "Rede Minas",
-        "channel-city": "Patos de Minas",
-        "channel-uf": "MG",
+        "channel-name": "TVE Bahia",
+        "channel-network": "TV Brasil e Futura",
+        "channel-city": "Salvador",
+        "channel-uf": "BA",
         "channel-codec": "h264",
         "channel-resolution": "1080"
     },
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8"
+    "url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8"
     }
 }

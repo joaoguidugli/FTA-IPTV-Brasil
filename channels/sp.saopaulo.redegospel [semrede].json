@@ -1,11 +1,11 @@
 {
     "INFO":{
-        "channel-name": "UniTV Porto Alegre",
-        "channel-network": "UFRGS",
-        "channel-city": "Porto Alegre",
-        "channel-uf": "RS",
-        "channel-codec": "theora",
-        "channel-resolution": "480"
+        "channel-name": "Rede Gospel",
+        "channel-network": "",
+        "channel-city": "São Paulo",
+        "channel-uf": "SP",
+        "channel-codec": "h264",
+        "channel-resolution": "1080"
     },
 
     "EPG":{
@@ -15,7 +15,7 @@
         "tvg-language": "Portuguese",
         "tvg-country": "BR",
         "tvg-logo": "",
-        "group-title": "General",
+        "group-title": "Religioso",
         "shift": "-3"
     },
 
@@ -24,6 +24,6 @@
     "aspect-ratio": "16:9",
     "subtitles": "por",
     "background":"#000000",
-    "url": "http://unitvaovivo.ufrgs.br:8080/live.ogg"
+    "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     }
 }
