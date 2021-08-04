@@ -11,8 +11,10 @@ class Tools ():
         file.write("#EXTM3U\n\n")
         file.close()
 
-        file = open("./log/channelsoff.txt", "w")
-        file.write("#Canais Offline\n")
+        file = open("./log/channelsoff.md", "w")
+        file.write("# Canais Offline\n\n")
+        file.write("| Canal | Motivo |\n")
+        file.write("| ----- | ------ |\n")
         file.close()
         
         #define VLC instance
@@ -53,12 +55,19 @@ class Tools ():
         file.write("\n")
         file.close()
 
-    def addChannelListOffline( self, channelName, nameArchive ):
-        file = open("./log/channelsoff.txt", "a")
+    def addChannelListOffline( self, channelName ):
+        file = open("./log/channelsoff.md", "a")
+        file.write("| ")
+        file.write(channelName + " | ")
+        file.write("Link desatualizado |")
         file.write("\n")
-        file.write("Canal: " + channelName)
-        file.write("\n")
-        file.write("Arquivo: " + nameArchive)
+        file.close()
+
+    def addChannelListMissing( self, channelName ):
+        file = open("./log/channelsoff.md", "a")
+        file.write("| ")
+        file.write(channelName + " | ")
+        file.write("Link faltando |")
         file.write("\n")
         file.close()
 

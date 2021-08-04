@@ -1,56 +1,49 @@
-#!/usr/bin/env python
+# !/usr/bin/env python
 # -*- coding: utf-8 -*-
-import json
-import os
+
+import pandas as pd  
 from utils.tools import Tools
 from datetime import datetime
-
+# odfpy is required
 
 obj = Tools()
 numChannels = 0
 
-entries = os.listdir('./channels')
-for entry in entries:
+planilha = pd.read_csv("channels.csv", encoding="utf-8")
+planilha = planilha.fillna('')
 
-    test = open('./channels/' + entry,)
-    data = json.load(test) 
-    connection = data['DATA']['url']
-    name = data['INFO']['channel-name']
+for index, row in planilha.iterrows():
 
-    print('[VERIFICANDO CANAL] ' + name)
+    connection = row['url']
+    print('[VERIFICANDO CANAL] ' + row['channel-name'])
 
     if not connection:
-        obj.addChannelListOffline(
-            data['INFO']['channel-name'],
-            entry
+        obj.addChannelListMissing(
+            row['channel-name']
         )
         print('Canal Offline')
     else:
         state = obj.checkChannel(connection)
         if state == "State.Ended" or state == "State.Error":
             obj.addChannelListOffline(
-                data['INFO']['channel-name'],
-                entry
+                row['channel-name']
             )
             print('Canal Offline')
         else:
             obj.addChannelPlaylist(
-                data['EPG']['group-title'],
-                data['EPG']['tvg-id'],
-                data['EPG']['tvg-name'],
-                data['EPG']['tvg-logo'],
-                data['EPG']['url-tvg'],
-                data['EPG']['shift'],
-                data['EPG']['tvg-language'],
-                data['EPG']['tvg-country'],
-                data['INFO']['channel-name'],
-                data['DATA']['url']
+                row['group-title'],
+                row['tvg-id'],
+                row['tvg-name'],
+                row['tvg-logo'],
+                row['url-tvg'],
+                str(row['shift']),
+                row['tvg-language'],
+                row['tvg-country'],
+                row['channel-name'],
+                row['url']
             )
             print('Canal Online')
             numChannels += 1
-
-
-
 
 now = datetime.now()
 data = (str(now.day) + "/" + str(now.month) + "/" + str(now.year))
